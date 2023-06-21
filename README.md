@@ -2,8 +2,8 @@
 
 ## URLs
 
-- Crudemon: http://crudemon.herokuapp.com/
+-   Crudemon: http://crudemon.vercel.app/
 
 ## Repositories
 
-- Crudemon: https://github.com/matias-fuentes/Crudemon
+-   Crudemon: https://github.com/matias-fuentes/Crudemon
